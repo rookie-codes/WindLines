@@ -1,6 +1,6 @@
 {
-    "name": "WindLines",
-    "tree": {
-      "$path": "src"
-    }
+  "name": "WindLines",
+  "tree": {
+    "$path": "src"
   }
+}
