@@ -1,7 +1,6 @@
 {
-  "name": "WindLines",
+  "name": "windlines",
   "tree": {
-    "$className": "DataModel",
     "$path": "src"
   }
 }
